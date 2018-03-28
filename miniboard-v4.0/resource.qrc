@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resource/black.png</file>
+        <file>resource/blue.png</file>
+        <file>resource/circle.png</file>
+        <file>resource/clear.png</file>
+        <file>resource/clip.png</file>
+        <file>resource/cube.png</file>
+        <file>resource/curve.png</file>
+        <file>resource/edit.png</file>
+        <file>resource/ellipse.png</file>
+        <file>resource/fill.png</file>
+        <file>resource/green.png</file>
+        <file>resource/heavy.png</file>
+        <file>resource/line.png</file>
+        <file>resource/medium.png</file>
+        <file>resource/new.png</file>
+        <file>resource/open.png</file>
+        <file>resource/poly.png</file>
+        <file>resource/rect.png</file>
+        <file>resource/red.png</file>
+        <file>resource/save.png</file>
+        <file>resource/thick.png</file>
+        <file>resource/thin.png</file>
+        <file>resource/triangle.png</file>
+        <file>resource/delete.png</file>
+        <file>resource/miniboard.png</file>
+    </qresource>
+</RCC>

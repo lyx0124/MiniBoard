@@ -1,0 +1,11 @@
+V1.0: Use OpenGL, cannot interact with mouse
+V1.1: Could interact with mouse, more features like color and thickness
+
+V2.0: Use Qt
+
+V3.0: Start using Qt UI, without polygon
+V3.1: A more beautiful GUI, more features like circle/ellipse fill, less bugs when drawing polygons
+V3.2: More features like generate curves
+V3.3: Could clip lines, less bugs
+
+V4.0: The best I could
