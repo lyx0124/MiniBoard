@@ -1,0 +1,57 @@
+------------------------------------------
+
+Menu
+
+New£ºequivalent to clear window
+Open£ºdo nothing
+Save£ºsave screenshot to current directory
+Shapes£ºcreate various shapes
+
+------------------------------------------
+
+Toolbar
+
+Color£ºchange color
+Thick£ºchange thickness
+CurveOrder£ºchange curve order
+DeleteNode£ºdelete last curve node
+Fill£ºfill the latest drawn shape
+Clip£ºcan only clip lines
+Clear£ºclear window
+Up/Down£ºmove the latest drawn shape up and down
+Left/Right£ºmove the latest drawn shape left and right
+Rotate£ºrotate the latest drawn shape(no interpolation, shapes will deform, especially ellipse)
+Zoom£ºzoom the latest drawn shape
+
+------------------------------------------
+
+How to draw shapes
+
+lines, rectangle, circle, ellipse: click left button and drag to form a shape
+(note: for those shapes mentioned above, when you finish drawing, you could click right button or middle button and drag to edit the latest drawn shape)
+
+polygon: left click to create a polygon, move your mouse and you can see the polygon forming, right click to add a vertex, click middle button to finish drawing
+(note: for polygons, when you finish drawing, you can still use middle button and right button to edit the latest drawn shape)
+
+curve: left click to create a curve and add the first control point, right click to add a control point, click the middle button to finish drawing
+(note: for curves, when you finish drawing, you could use right button to drag existing control points and add new control points£©
+
+3D: click the 3D button on the menu, then the 3D shape will manifest itself, drag left button to change view direction, use left/right/up/down to move camera position, scroll to zoom
+
+------------------------------------------
+
+How to edit
+
+fill: click the fill button in the edit widget to fill the latest drawn shape(what we fill here is not a close area but a shape object)
+
+clip: click the clip button in the edit widget and use left button to drag a rectangle to clip lines, if you want to clip again, click the clip button again first(can only clip lines and have to drag from top left to bottom right)
+
+transform: change the value of transformation in the edit widget(no interpolation, shapes will deform, especially ellipse)
+
+clear: click the clear button in the edit widget to clear window
+
+------------------------------------------
+
+How to take a screenshot
+
+click the save button in the menu to take a screenshot and save it to the current directory
